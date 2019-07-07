@@ -2,6 +2,7 @@ package com.kishore.restws.client;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
+
 @XmlRootElement
 public class Check {
 	
